@@ -4,3 +4,6 @@ Emoji
 TypeOption
 Colors
 Vibrants
+
+darkmode
+vedio
